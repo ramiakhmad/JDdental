@@ -1,0 +1,1 @@
+mongodb+srv://JDDentalClinic:AXMNr0CU7GhF3x9W@jddentalclinic.3xdf7.mongodb.net/?retryWrites=true&w=majority&appName=JDDentalClinic
